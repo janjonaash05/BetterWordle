@@ -1,0 +1,1 @@
+jar musí být spuštěn na lokaci kde se nachází jak data.ser, tak words.txt soubory.
